@@ -15,7 +15,7 @@ I’m uploading each problem one by one — not in bulk — to focus on clean ex
 | Problem Name                                | Folder                                  | Watch on YouTube |
 |--------------------------------------------|------------------------------------------|------------------|
 | Swap Nodes in Pairs                        | `swap.nodes.in.pairs`                   | [Video Link](https://youtu.be/dQQfT3IKbX0?si=b_tzWMsKg7ifuz2w) |
-| Remove Duplicates from Sorted List II      | `remove_duplicates_from_sorted_list_Leetcode82`      | (https://youtu.be/eP-JvI1t1RY?si=rllsaDF15dRk5CZH)
+| Remove Duplicates from Sorted List II      | `remove_duplicates_from_sorted_list_Leetcode82`      | [Video Link](https://youtu.be/eP-JvI1t1RY?si=6S6SS59jZqlQuxgb)
 
 
 > *More problems are being added every day.*
