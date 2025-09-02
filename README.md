@@ -18,6 +18,7 @@ I’m uploading each problem one by one — not in bulk — to focus on clean ex
 | Remove Duplicates from Sorted List II      | `remove_duplicates_from_sorted_list_Leetcode82`      | [Video Link](https://youtu.be/eP-JvI1t1RY?si=6S6SS59jZqlQuxgb) |
 | Remove Duplicates from Sorted List I       | `remove_duplicates_from_sorted_list_Leetcode83`      | [Video Link](https://youtu.be/UFMnvPvtbqY) |
 | Partition List                             | `partition_list_leetcode86`                          | [Video Link](https://youtu.be/_xhoZvA-WKw?si=k-GBTIX67A6E1A1D) |
+| Remove Nth Node from End in one Pass       | `remove_nodes_from_end`                              | [Video Link](https://youtu.be/c6bJJm32u4I?feature=shared) |
 
 > *More problems are being added every day.*
 
