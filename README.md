@@ -20,7 +20,7 @@ I’m uploading each problem one by one — not in bulk — to focus on clean ex
 | Partition List                             | `partition_list_leetcode86`                          | [Video Link](https://youtu.be/_xhoZvA-WKw?si=k-GBTIX67A6E1A1D) |
 | Remove Nth Node from End in one Pass       | `remove_nodes_from_end`                              | [Video Link](https://youtu.be/c6bJJm32u4I?feature=shared) |
 | Delete a Node in a Linked List             | `delete_node_in_LL`                                  | [Video Link](https://youtu.be/LEkrgaMz0_o?feature=shared) |
-|  middle of Linked List                 | `middle_of_LL`                                       | [Video Link](https://youtu.be/LEkrgaMz0_o?feature=shared)  |
+| Find middle of Linked List                 | `middle_of_LL`                                       | [Video Link](https://youtu.be/LEkrgaMz0_o?feature=shared)  |
 
 
 > *More problems are being added every day.*
